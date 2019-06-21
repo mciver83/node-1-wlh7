@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Trends of 2019",
+    "content": "Lots of cool things happening in tech this year.  React is everything!"
+  },
+  {
+    "id": 2,
+    "title": "Tech of the future",
+    "content": "Livign like the Jetsons"
+  },
+  {
+    "id": 3,
+    "title": "Hidden Travel",
+    "content": "Travel to the most beautiful, hidden places in the world!"
+  },
+  {
+    "id": 4,
+    "title": "Yard Care",
+    "content": "Just give up already!"
+  }
+]
